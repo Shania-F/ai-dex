@@ -1,4 +1,4 @@
-# ai-pokedex
+# ai-dex
 TODO
 1. bring in pre-trained model
 2. fine-tune for our dataset of unique characters
