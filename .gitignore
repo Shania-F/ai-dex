@@ -1,5 +1,6 @@
 # PyCharm project files
 .idea/
+old files/
 
 # Python virtual environment
 venv/
